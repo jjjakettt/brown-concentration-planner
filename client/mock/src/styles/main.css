@@ -1,0 +1,66 @@
+.dropdown-container {
+  margin-top: 20px; 
+}
+
+.dropdown > option {
+  text-align: center
+} 
+
+.retrieve-button {
+  font-size: 15px; 
+  padding: 15px 30px; 
+}
+
+@media (max-width: 740px) {
+  .select-history {
+    height: 75vh; 
+  }
+
+  table {
+    font-size: 14px;
+    width: 80%;
+  }
+
+  th, td {
+    padding: 15px; 
+    min-height: 50px; 
+  }
+
+  .retrieve-button {
+    font-size: 35px; 
+    padding: 15px 30px; 
+  }
+
+  .dropdown {
+    width: 10vw;
+    height: 3.5vw;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 25px;
+  }
+}
+
+@media (min-width: 741px) {
+  table {
+    font-size: 16px;
+  }
+  
+  th, td {
+    padding: 10px; 
+  }
+}
+
+.course-planner {
+  background-color: #beb3ad;
+  width: 100%;
+}
+
+.course-bank {
+  background-color: #beb3ad;
+  width: 100%;
+}
+
+.select-container {
+  width: 100%;
+  background-color: #beb3ad
+}
