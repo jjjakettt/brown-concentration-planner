@@ -1,0 +1,11 @@
+# IntelliJ Config
+.idea
+
+# Maven
+target/
+.mvn
+.mvn-classpath
+pom.xml.bak
+
+# Computer Config
+.DS_Store

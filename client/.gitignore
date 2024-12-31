@@ -1,0 +1,6 @@
+mock/node_modules/
+mock/src/*.js
+.DS_Store
+mock/test-results/
+mock/playwright-report/
+mock/playwright/.cache/
