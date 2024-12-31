@@ -1,0 +1,71 @@
+/* Add these styles to your CSS file */
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  @keyframes float {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+  
+  /* Steam animation */
+  .steam-container {
+    width: 100px;
+    height: 100px;
+    position: relative;
+  }
+  
+  .steam {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.1);
+    transform-origin: 50% 100%;
+    animation: steam 4s infinite;
+  }
+  
+  .steam1 { animation-delay: 0.5s; }
+  .steam2 { animation-delay: 1s; }
+  .steam3 { animation-delay: 1.5s; }
+  .steam4 { animation-delay: 2s; }
+  
+  @keyframes steam {
+    0% {
+      transform: translateY(0) scale(0.25);
+      opacity: 0.2;
+    }
+    100% {
+      transform: translateY(-200px) scale(1);
+      opacity: 0;
+    }
+  }
+  
+  /* Hover effect for the sign-in button */
+  button:hover {
+    transform: scale(1.05);
+    background-color: rgb(171, 152, 143);
+  }

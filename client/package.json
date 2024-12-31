@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@clerk/clerk-react": "^5.17.2",
+    "mock": "^0.1.1"
+  }
+}
