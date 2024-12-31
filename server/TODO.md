@@ -1,1 +1,0 @@
-Place your IntelliJ Java project in here!
