@@ -4,7 +4,6 @@ import static spark.Spark.after;
 import Server.Handlers.CourseHandler;
 import Server.Handlers.PrerequisiteHandler;
 import Server.Handlers.RequirementHandler;
-import datasource.sharedState.SharedState;
 import spark.Spark;
 
 /**

@@ -1,2 +1,12 @@
-# Term Project Last Report
-https://docs.google.com/document/d/1F_V2Ak2_nC3MJFToBrS0IAskqA6aez1zHkT-jXWM-Vw/edit?usp=sharing
+# Brown Concentration Planner
+A concentration planner designed to help Brown students plan out the courses they'll take over four years to fulfill their respective concentration's requirements.
+
+## Developers
+Long (Jake) Tran - ltran51/jjjakettt
+Caroline Cahill - ccahill5/caroline-cahill
+William Tolmie - wtolmie/willtolmie
+Tiffany Tran - ttran68/tiffanytran1
+
+
+
+
