@@ -156,7 +156,3 @@ brown-concentration-planner/
 ## License
 
 This project is for educational purposes at Brown University.
-
-## Architecture
-
-For detailed technical architecture and design decisions, see [ARCHITECTURE.md](ARCHITECTURE.md).
